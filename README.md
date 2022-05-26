@@ -13,6 +13,12 @@ ____
 - sprites are displayed instead of the walls.
 - also there are wall collisions.
 ____
+:keyboard:
+
+* the left and right arrow keys of the keyboard allow you to look left and right in the maze.
+* the ***W,A,S,D*** keys allow you to move the point of view through the maze
+* pressing ***ESC*** close the window and quit the program. 
+____
 
 + screenshot:
 
