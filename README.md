@@ -13,3 +13,7 @@ ____
 - sprites are displayed instead of the walls.
 - also there are wall collisions.
 ____
+
++ screenshot:
+
+![screenshot](https://github.com/bchelste/my_Wolfenstein_3D/blob/main/textures/photo_2022-05-26%2018.01.18.jpeg)
